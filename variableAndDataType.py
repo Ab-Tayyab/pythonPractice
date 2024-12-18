@@ -45,9 +45,44 @@
 
 
 #assignment operator
-num = 10
-num+=10
-print(num)
+# num = 10
+# num+=10
+# print(num)
 
 
 #logical operator
+# a = 50
+# b= 40
+# print(not (a>b))
+
+# val1 = True
+# val2 = True
+# print(val1 and val2)
+
+# val1 = True
+# val2 = False
+# print(val1 or val2)
+
+# a= 20
+# b= 30
+# print((a==b) or (a<b))
+
+
+#Type casting
+
+# a = "2"
+# print(int(a))
+
+# b = "2"
+# c= 4
+
+# print(int(b) + c)
+
+
+#Input
+# name = str(input("Enter Your Name: "))
+# age = int(input("Enter Your age: "))
+# marks = float(input("Enter Your marks: "))
+
+# print("Hello ", name, " Your age is ", age, " You got ", marks)
+
