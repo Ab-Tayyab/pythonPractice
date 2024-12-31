@@ -4,5 +4,5 @@
 
 # Task 2
 
-str2 = "kdjsadjksa$$kjdksjkd$ss$"
-print(str2.count("$"))
+# str2 = "kdjsadjksa$$kjdksjkd$ss$"
+# print(str2.count("$"))
