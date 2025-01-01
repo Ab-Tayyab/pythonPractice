@@ -13,10 +13,20 @@
 
 # task 2 
 
-pList = [1,"abc",1,]
-copyList = pList.copy()
-copyList.reverse()
-if(pList == copyList):
-    print("List is palindrom")
-else:
-    print("list is not palindrom")
+# pList = [1,"abc",1,]
+# copyList = pList.copy()
+# copyList.reverse()
+# if(pList == copyList):
+#     print("List is palindrom")
+# else:
+#     print("list is not palindrom")
+
+# task 3 
+
+# gTup = ("C","D","A","A","B","B","A")
+# total_grade = gTup.count("A")
+# print(total_grade)
+
+gList = ["C","D","A","A","B","B","A"]
+gList.sort()
+print(gList)
